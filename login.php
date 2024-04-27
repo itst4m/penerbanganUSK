@@ -78,7 +78,7 @@ if (isset($_POST["login"])) {
             <div class="col-sm-10 offset-sm-2">
                 <div class="form-check">
                     <input class="form-check-input" type="checkbox" name="remember" id="remember">
-                    <label class="form-check-label" for="checkRemember">Remember me</label>
+                    <label class="form-check-label" for="checkRemember">ingat me</label>
                 </div>
             </div>
         </div>
